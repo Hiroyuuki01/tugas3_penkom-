@@ -1,0 +1,10 @@
+pdfminer.six
+pandas
+numpy
+scikit-learn
+transformers
+torch
+sentence-transformers
+openpyxl
+tqdm
+regex

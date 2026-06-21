@@ -1,0 +1,11 @@
+﻿query_id,ground_truth,top_k_ids,hit,best_similarity
+case_028,case_028,"['case_028', 'case_048', 'case_010', 'case_027', 'case_033']",1,0.9364
+case_041,case_041,"['case_021', 'case_029', 'case_041', 'case_034', 'case_040']",1,0.9208
+case_027,case_027,"['case_027', 'case_048', 'case_014', 'case_023', 'case_037']",1,0.9425
+case_044,case_044,"['case_036', 'case_018', 'case_008', 'case_009', 'case_045']",0,0.9084
+case_025,case_025,"['case_025', 'case_024', 'case_037', 'case_023', 'case_010']",1,0.9569
+case_038,case_038,"['case_038', 'case_013', 'case_011', 'case_012', 'case_017']",1,0.9426
+case_013,case_013,"['case_013', 'case_012', 'case_039', 'case_007', 'case_026']",1,0.9437
+case_020,case_020,"['case_020', 'case_037', 'case_046', 'case_010', 'case_034']",1,0.9371
+case_005,case_005,"['case_005', 'case_039', 'case_037', 'case_026', 'case_027']",1,0.93
+case_026,case_026,"['case_026', 'case_018', 'case_036', 'case_010', 'case_037']",1,0.9103
